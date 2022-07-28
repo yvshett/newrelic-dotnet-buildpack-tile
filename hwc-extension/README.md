@@ -1,3 +1,0 @@
-# newrelic-hwc-extension-buildpack
----
-
